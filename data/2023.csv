@@ -1,0 +1,9 @@
+id2023,crime_type,january,february,march,april,may,june,july,august,september,october,november,december
+1,murder,0,1,1,3,4,0,4,2,6,1,0,1
+2,rape,14,14,17,10,11,15,9,15,9,16,14,13
+3,robbery,20,17,19,20,16,17,29,28,26,18,22,20
+4,aggravated_assault,33,30,28,34,29,43,32,33,31,36,25,28
+5,breaking_entering,94,74,115,104,122,117,102,85,67,83,72,77
+6,theft,629,541,600,596,595,599,695,664,549,585,526,539
+7,auto_theft,98,120,71,95,92,117,148,111,104,97,113,142
+8,arson,0,3,2,2,2,4,2,1,1,1,2,1
