@@ -1,9 +1,0 @@
-id2022,crime_type,january,february,march,april,may,june,july,august,september,october,november,december
-1,murder,2,3,3,2,11,2,4,4,5,2,4,2
-2,rape,10,14,11,11,11,16,23,15,14,21,16,13
-3,robbery,19,12,20,26,21,13,18,25,18,24,16,14
-4,aggravated_assault,45,51,41,36,38,41,49,35,45,30,22,21
-5,breaking_entering,104,88,98,93,99,112,96,84,126,76,88,78
-6,theft,582,521,572,546,595,562,615,663,634,628,594,592
-7,autho_theft,582,521,572,546,595,562,615,663,634,628,594,592
-8,arson,4,0,0,3,2,1,2,1,2,2,2,2
